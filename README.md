@@ -2,7 +2,7 @@
 
 A javascript version of pattern blocks built with Fabric JS.
 
-[See it in action here.] (http://ideonexus.github.io/Explorable-Explanations/math/patternblocks/)
+[See it in action here.](http://ideonexus.github.io/Explorable-Explanations/math/patternblocks/)
 
 Part of the [Explorable Explanations Collection](http://ideonexus.github.io/Explorable-Explanations/) collection of educational javascript apps. 
 
